@@ -1,0 +1,10 @@
+The following features work
+ - Bluetooth audio
+
+The following features do not work
+ - CDC Emulation in general :)
+
+// TODO
+ - Divide features into "components". This way it is extremely messy.
+ - Add no sound or no magazine feature or whatever.
+ - Make everything configurable through menuconfig
