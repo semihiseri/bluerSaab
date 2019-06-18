@@ -80,11 +80,11 @@ X B 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# bluerSaab_ESP32-DEVKITC
+# bluerSaab-rescue_ESP32-DEVKITC-bluerSaab
 #
-DEF bluerSaab_ESP32-DEVKITC U 0 40 Y Y 1 F N
+DEF bluerSaab-rescue_ESP32-DEVKITC-bluerSaab U 0 40 Y Y 1 F N
 F0 "U" 0 900 50 H V C CNN
-F1 "bluerSaab_ESP32-DEVKITC" 0 -1100 50 H V C CNN
+F1 "bluerSaab-rescue_ESP32-DEVKITC-bluerSaab" 0 -1100 50 H V C CNN
 F2 "" 0 900 50 H I C CNN
 F3 "" 0 900 50 H I C CNN
 DRAW
@@ -130,11 +130,11 @@ X IO25 9 -500 0 100 R 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# bluerSaab_LM2596
+# bluerSaab-rescue_LM2596-bluerSaab
 #
-DEF bluerSaab_LM2596 U 0 40 Y Y 1 F N
+DEF bluerSaab-rescue_LM2596-bluerSaab U 0 40 Y Y 1 F N
 F0 "U" 0 300 50 H V C CNN
-F1 "bluerSaab_LM2596" 0 -300 50 H V C CNN
+F1 "bluerSaab-rescue_LM2596-bluerSaab" 0 -300 50 H V C CNN
 F2 "" 0 300 50 H I C CNN
 F3 "" 0 300 50 H I C CNN
 DRAW
@@ -150,11 +150,11 @@ X OUT+ 4 400 -100 100 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# bluerSaab_MCP2515
+# bluerSaab-rescue_MCP2515-bluerSaab
 #
-DEF bluerSaab_MCP2515 U 0 40 Y Y 1 F N
+DEF bluerSaab-rescue_MCP2515-bluerSaab U 0 40 Y Y 1 F N
 F0 "U" 0 400 50 H V C CNN
-F1 "bluerSaab_MCP2515" 0 -400 50 H V C CNN
+F1 "bluerSaab-rescue_MCP2515-bluerSaab" 0 -400 50 H V C CNN
 F2 "" 0 450 50 H I C CNN
 F3 "" 0 450 50 H I C CNN
 DRAW
@@ -171,11 +171,11 @@ X L 9 400 0 100 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
-# bluerSaab_PCM5102
+# bluerSaab-rescue_PCM5102-bluerSaab
 #
-DEF bluerSaab_PCM5102 U 0 40 Y Y 1 F N
+DEF bluerSaab-rescue_PCM5102-bluerSaab U 0 40 Y Y 1 F N
 F0 "U" 0 600 50 H V C CNN
-F1 "bluerSaab_PCM5102" 0 -600 50 H V C CNN
+F1 "bluerSaab-rescue_PCM5102-bluerSaab" 0 -600 50 H V C CNN
 F2 "" 0 600 50 H I C CNN
 F3 "" 0 600 50 H I C CNN
 DRAW

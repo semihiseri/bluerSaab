@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L bluerSaab:ESP32-DEVKITC U3
+L bluerSaab-rescue:ESP32-DEVKITC-bluerSaab U3
 U 1 1 5D068673
 P 2750 3550
 F 0 "U3" H 2750 4575 50  0000 C CNN
@@ -26,7 +26,7 @@ F 3 "" H 2750 4450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L bluerSaab:LM2596 U1
+L bluerSaab-rescue:LM2596-bluerSaab U1
 U 1 1 5D068B16
 P 3150 1250
 F 0 "U1" H 3150 1675 50  0000 C CNN
@@ -37,7 +37,7 @@ F 3 "" H 3150 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L bluerSaab:MCP2515 U4
+L bluerSaab-rescue:MCP2515-bluerSaab U4
 U 1 1 5D068DEA
 P 6250 4700
 F 0 "U4" H 6250 5225 50  0000 C CNN
@@ -48,7 +48,7 @@ F 3 "" H 6250 5150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L bluerSaab:PCM5102 U2
+L bluerSaab-rescue:PCM5102-bluerSaab U2
 U 1 1 5D069228
 P 6250 3050
 F 0 "U2" H 6250 3775 50  0000 C CNN
@@ -393,7 +393,7 @@ U 1 1 5D0E6F79
 P 2050 1400
 F 0 "F1" V 2150 1450 50  0000 L CNN
 F 1 "Fuse" V 1950 1350 50  0000 L CNN
-F 2 "Fuse:Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open" V 1980 1400 50  0001 C CNN
+F 2 "Fuse_Holders_and_Fuses:Fuseholder_Fuse_TR5_Littlefuse-No560_No460" V 1980 1400 50  0001 C CNN
 F 3 "~" H 2050 1400 50  0001 C CNN
 	1    2050 1400
 	0    -1   -1   0   
